@@ -1,0 +1,13 @@
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\bin\Debug\GeradorDeFrase.exe.config
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\bin\Debug\GeradorDeFrase.exe
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\bin\Debug\GeradorDeFrase.pdb
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.csproj.AssemblyReference.cache
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.Form1.resources
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.Properties.Resources.resources
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.csproj.GenerateResource.cache
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.csproj.CoreCompileInputs.cache
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorD.D5971397.Up2Date
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.exe
+C:\Users\italo.gfarias\source\repos\GeradorDeFrase\GeradorDeFrase\obj\Debug\GeradorDeFrase.pdb
